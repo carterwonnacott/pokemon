@@ -1,4 +1,4 @@
-package main.java.com.poke.minmax;
+package com.poke.minmax;
 
 /**
  * Hello world!
