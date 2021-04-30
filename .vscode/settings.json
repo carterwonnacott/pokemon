@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "src/main/java/com/poke/minmax",
         "minmax/src"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
